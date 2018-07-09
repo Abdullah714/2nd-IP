@@ -1,0 +1,71 @@
+#a {
+  text-align: center;
+  background-image: url("../img//landing.jpg");
+  background-size: cover;
+  background-image: fixed;
+  background-position: center;
+  padding-bottom: 20px;
+}
+
+<style type='text/css'>
+
+#b {
+  padding: 20px;
+}
+
+#breakfast {
+  background-image: url("../img/breakfast.jpg");
+  background-position: center;
+  background-size: cover;
+  padding-top:  85px;
+     text-align: center;
+  font-size: 20px;
+  color: #ffffff;
+}
+#lunch {
+  background-image: url("../img/lunch.jpg");
+  background-size: cover;
+  text-align: center;
+  padding-top:  85px;
+  font-size: 20px;
+  color: #ffffff;}
+#dinner {
+  background-image: url("../img/dinner.jpg");
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  padding-bottom: 180px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.wee{
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+
+.you{
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+}
+.line{
+line-height: 200%;
+}
+
+#ok{
+  background-color: #D0D0D0;
+}
+
+.no{
+  background-color: #FF0000;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 15px;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+
+</style>
