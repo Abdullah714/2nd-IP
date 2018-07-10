@@ -10,15 +10,26 @@
 <style type='text/css'>
 
 #b {
-  padding: 20px;
+  padding-top: 85px;
+  padding-bottom: 85px;
 }
+
+.happy{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding: 10px;
+  color: white;
+}
+
+
 
 #breakfast {
   background-image: url("../img/breakfast.jpg");
   background-position: center;
   background-size: cover;
   padding-top:  85px;
-     text-align: center;
+  padding-bottom: 85px;
+  text-align: center;
   font-size: 20px;
   color: #ffffff;
 }
@@ -27,6 +38,7 @@
   background-size: cover;
   text-align: center;
   padding-top:  85px;
+  padding-bottom: 85px;
   font-size: 20px;
   color: #ffffff;}
 #dinner {
@@ -34,7 +46,8 @@
   background-position: center;
   background-size: cover;
   text-align: center;
-  padding-bottom: 180px;
+  padding-top: 85px;
+  padding-bottom: 85px;
   font-size: 20px;
   color: #ffffff;
 }
@@ -60,21 +73,26 @@ line-height: 200%;
 
 .no{
   background-color: #FF0000;
-  margin-top: 0px;
-  margin-bottom: 0px;
-  padding: 15px;
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   color: white;
   text-align: center;
-  padding-top: 50px;
-}
-
-.button button1{
-  color: #ff0000;
 }
 
 #e{
   background-image: url("../img/foodsBg.jpg");
 padding right: 100px;
+}
+
+.button1{
+  font-size: 14px 40px;
+  padding: 14px 40px;
+  border-radius: 2px;
+  background-color: white;
+  color: black;
+  border: 2px solid #F15A29;
+  float: left;
 }
 
 #yes{
@@ -94,7 +112,7 @@ padding right: 100px;
 
 .customer{
   background-image: url("../img/subscribe.jpg");
-  padding-bottom:200px;
+  padding-bottom:270px;
 }
 
 
@@ -103,7 +121,8 @@ padding right: 100px;
 }
 #forget{
   border-color: #ffa500;
-  padding: 4px;
+  padding-bottom: 40px;
+  padding-left: 10px;
     }
 
     .text{
@@ -116,6 +135,9 @@ padding right: 100px;
     .formButton{
     color: white;
     background-color: #F15a29;
+    padding: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
     }
     .mail{
 text-align: center;
@@ -128,4 +150,25 @@ text-align: center;
    .food{
      box-shadow: 0px 0px 10px;
    }
+
+   #reddit{
+    background-color: #F15a29;
+    padding-top:70px;
+      }
+
+      #di{
+      color: white;
+      font-size: 40px;
+      position: relative;
+      top: 10px;}
+
+      #wknd{
+color: white;
+font-size: 15px;
+      }
+h1{
+  font-size: 35px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+}
 </style>
