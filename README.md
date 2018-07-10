@@ -1,14 +1,11 @@
-# Independent Project
+# Anita's Kitchen
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+## Created By: Mohamed Abdullahi Elmoge
+### Description
+* This is an independent project in which i was to recreate a website.
+#### Languages Used
+*HTML5
+*CSS3
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
-  
-  3) Fix up the folder structure.
-
-  4) Submit your link through Moringa School LMS.
-
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
+### License
+MIT License. Feel free to edit these files. Please provide an act of attribution & do not hold me liable for anything. Copyright (c) 2018
