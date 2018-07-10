@@ -68,4 +68,64 @@ line-height: 200%;
   padding-top: 50px;
 }
 
+.button button1{
+  color: #ff0000;
+}
+
+#e{
+  background-image: url("../img/foodsBg.jpg");
+padding right: 100px;
+}
+
+#yes{
+  background-color: white;
+  margin-top:50px;
+  margi-bottom:50px;
+  margin-right: 80px;
+  margin-left: 100px;
+  padding: 20px;
+}
+
+
+
+.pizza{
+  color: white;
+}
+
+.customer{
+  background-image: url("../img/subscribe.jpg");
+  padding-bottom:200px;
+}
+
+
+.orange{
+  color: #ff2500;
+}
+#forget{
+  border-color: #ffa500;
+  padding: 4px;
+    }
+
+    .text{
+      color: white;
+    }
+
+    #forget{
+      box-shadow: 0px 0px 10px;
+    }
+    .formButton{
+    color: white;
+    background-color: #F15a29;
+    }
+    .mail{
+text-align: center;
+   }
+
+   .drinks{
+     box-shadow: 0px 0px 10px;
+   }
+
+   .food{
+     box-shadow: 0px 0px 10px;
+   }
 </style>
